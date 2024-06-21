@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.610c50cb.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/js/文件上传列子.md","lastUpdated":1718938826000}'),p={name:"guide/js/文件上传列子.md"},o=l("",5),e=[o];function c(t,r,F,y,D,i){return n(),a("div",null,e)}const m=s(p,[["render",c]]);export{u as __pageData,m as default};

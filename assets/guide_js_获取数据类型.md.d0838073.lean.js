@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.610c50cb.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/js/获取数据类型.md","lastUpdated":1718938826000}'),p={name:"guide/js/获取数据类型.md"},o=l("",9),e=[o];function t(r,c,F,y,D,i){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};

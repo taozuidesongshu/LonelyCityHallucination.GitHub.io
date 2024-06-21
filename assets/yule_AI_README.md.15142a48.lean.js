@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,N as a}from"./chunks/framework.610c50cb.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"yule/AI/README.md","lastUpdated":1718938826000}'),o={name:"yule/AI/README.md"},i=a("",10),n=[i];function s(l,p,h,c,_,f){return t(),r("div",null,n)}const w=e(o,[["render",s]]);export{m as __pageData,w as default};

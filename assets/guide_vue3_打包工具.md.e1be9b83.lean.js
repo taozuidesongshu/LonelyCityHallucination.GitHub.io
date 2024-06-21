@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,N as r}from"./chunks/framework.610c50cb.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/vue3/打包工具.md","lastUpdated":1718938826000}'),n={name:"guide/vue3/打包工具.md"},c=r("",5),o=[c];function p(s,_,i,h,l,d){return a(),t("div",null,o)}const k=e(n,[["render",p]]);export{b as __pageData,k as default};

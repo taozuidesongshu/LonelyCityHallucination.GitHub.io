@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.610c50cb.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/js/list转树.md","lastUpdated":1718938826000}'),p={name:"guide/js/list转树.md"},o=l("",9),e=[o];function t(r,c,F,D,y,i){return n(),a("div",null,e)}const b=s(p,[["render",t]]);export{u as __pageData,b as default};
